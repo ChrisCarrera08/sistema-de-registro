@@ -4,3 +4,5 @@
 
 Para ejecutar el sitema;debes poner:
 ```np, install reacte```
+
+sistema de registro 2
